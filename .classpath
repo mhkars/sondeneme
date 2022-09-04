@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="futbol"/>
+	<classpathentry kind="src" path="19_07"/>
+	<classpathentry kind="src" path="20_07"/>
+	<classpathentry kind="src" path="21_07"/>
+	<classpathentry kind="src" path="JDBC_Musteri"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-18.0.1.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/mhkars/Downloads/postgresql-42.4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

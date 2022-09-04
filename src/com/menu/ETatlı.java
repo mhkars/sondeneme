@@ -1,0 +1,6 @@
+package com.menu;
+
+public enum ETatlý {
+	EKMEKKADAYIFI, RAVANÝ, KEMALPASA, KUNEFE, BAKLAVA, SUTLAC, PUDÝNG, MUHALLEBÝ, KAZANDÝBÝ
+
+}

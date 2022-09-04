@@ -1,0 +1,6 @@
+package com.menu;
+
+public enum ECorba {
+	MERCÝMEK, EZOGELÝN, TARHANA, DOMATES, KREMALIMANTER, SEHRÝYE, YAYLA, YESÝLMERCÝMEK
+
+}
